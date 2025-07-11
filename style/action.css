@@ -1,5 +1,5 @@
 .navbar {
-  
+  background: url('../media/Hero-bg.png');
   background-size: cover;
   display: flex;
   justify-content: space-between;
