@@ -125,3 +125,48 @@
   font-size: 1rem;
   color: #444;
 }
+
+
+/* feedback style */
+
+.feedback {
+  padding: 80px 40px;
+  text-align: center;
+}
+
+.feedback h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.review-card {
+  background: #ffffff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  border-radius: 12px;
+  padding: 20px;
+  max-width: 280px;
+  text-align: left;
+}
+
+.review-card p {
+  color: #444;
+}
+
+.review-card h4 {
+  font-weight: 600;
+  margin: 10px 0 5px;
+}
+
+.reviewer {
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
