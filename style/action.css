@@ -22,3 +22,27 @@
   font-weight: 600;
   border-radius: 8px;
 }
+/* banner style */
+
+
+.banner {
+  background: url('../media/');
+  background-size: cover;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.banner h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.focus-btn {
+  background-color: #3f48ff;
+  border: none;
+  padding: 12px 25px;
+  font-weight: 600;
+  border-radius: 8px;
+  color: white;
+}
