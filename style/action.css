@@ -32,6 +32,12 @@
   font-weight: 600;
   border-radius: 8px;
 }
+
+.signup-btn:hover
+{
+background-color: rgb(135, 83, 232);
+cursor: pointer;
+}
 /* banner style */
 
 
@@ -55,6 +61,12 @@
   font-weight: 600;
   border-radius: 8px;
   color: white;
+}
+
+.focus-btn:hover
+{
+background-color: rgb(135, 83, 232);
+cursor: pointer;
 }
 
 /* action style */
@@ -89,6 +101,12 @@
   color: #fff;
   font-weight: 600;
   border-radius: 8px;
+}
+
+.preview-btn:hover
+{
+background-color: rgb(135, 83, 232);
+cursor: pointer;
 }
 
 .action-right {
@@ -242,6 +260,12 @@
   border-radius: 8px;
 }
 
+.contact-right-button:hover
+{
+background-color: rgb(135, 83, 232);
+cursor: pointer;
+}
+
 .footer {
   background: #1a1a1a;
   color: #fff;
@@ -277,3 +301,4 @@
 .footer-links a:hover {
   color: #fff;
 }
+
