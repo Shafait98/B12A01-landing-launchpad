@@ -88,3 +88,40 @@
   width: 100%;
   border-radius: 16px;
 }
+
+
+/* User style */
+
+.productive {
+  background-color: #f0f3ff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.productive h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.stats div {
+  min-width: 100px;
+}
+
+.stats h3 {
+  font-size: 2rem;
+  color: #3f48ff;
+  margin-bottom: 10px;
+}
+
+.stats p {
+  font-size: 1rem;
+  color: #444;
+}
