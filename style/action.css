@@ -170,3 +170,61 @@
   font-weight: 500;
   font-size: 0.9rem;
 }
+
+
+/* contact form style */
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 60px;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.contact-left {
+  flex: 1;
+}
+
+.contact-left h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.contact-left p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.contact-right {
+  flex: 1;
+}
+
+.contact-right form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-right input,
+.contact-right textarea {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.contact-right textarea {
+  height: 120px;
+  resize: vertical;
+}
+
+.contact-right button {
+  background-color: #3f48ff;
+  border: none;
+  padding: 12px;
+  font-weight: 600;
+  color: white;
+  border-radius: 8px;
+}
