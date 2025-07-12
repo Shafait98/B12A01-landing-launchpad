@@ -231,6 +231,7 @@ margin-left: 20px;
 /* contact form style */
 
 .contact {
+    background-color: #D6DDED;
   display: flex;
   justify-content: space-between;
   padding: 80px 60px;
@@ -292,7 +293,7 @@ cursor: pointer;
 }
 
 .footer {
-  background: #1a1a1a;
+  background: #FFFFFF;
   color: #fff;
   text-align: center;
   padding: 40px 20px;
