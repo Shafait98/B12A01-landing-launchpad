@@ -125,14 +125,20 @@ cursor: pointer;
 
 .productive {
   background-color: #f0f3ff;
+  width:1140px;
+  height: 306px;
   padding: 80px 20px;
   text-align: center;
+  margin-left: 150px;
+  
 }
 
 .productive h2 {
-  font-size: 2rem;
+  font-size: 38px;
   margin-bottom: 40px;
-  font-weight: 600;
+  font-weight: bold;
+  
+
 }
 
 .stats {
@@ -147,7 +153,8 @@ cursor: pointer;
 }
 
 .stats h3 {
-  font-size: 2rem;
+  font-size: 80px;
+  font-weight: bold;
   color: #3f48ff;
   margin-bottom: 10px;
 }
